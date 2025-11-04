@@ -1,2 +1,2 @@
 # 使い方
-## `extended_dp.js`をダウンロードする
+`extended_dp.js`をダウンロードする
